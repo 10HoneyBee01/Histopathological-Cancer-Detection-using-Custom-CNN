@@ -1,6 +1,8 @@
 ![Histopathological Cancer](https://github.com/10HoneyBee01/Histopathological-Cancer-Detection-using-Custom-CNN/blob/main/design.PNG)
 # Histopathological Cancer Detection using 5-Layer CNN Model
 
+🔬🩺🔍📷🧠
+
 This repository contains a deep learning model for histopathological cancer detection using a 5-layer Convolutional Neural Network (CNN). The model is trained on the histopathological images dataset available on Kaggle: [Histopathologic Cancer Detection Competition](https://www.kaggle.com/competitions/histopathologic-cancer-detection).
 
 ## Introduction
@@ -9,15 +11,21 @@ Histopathological analysis plays a crucial role in the diagnosis and treatment o
 
 ## Dataset
 
+📊📉📈🖼️
+
 The dataset used for training this model is provided by the Histopathologic Cancer Detection Competition hosted on Kaggle. The dataset contains a large collection of histopathological images of lymph node sections, labeled as either positive (cancerous) or negative (non-cancerous).
 
 You can download the dataset from the following link: [Histopathologic Cancer Detection Dataset](https://www.kaggle.com/competitions/histopathologic-cancer-detection)
 
 ## Model Architecture
 
+🏗️🧱🛠️
+
 The CNN model architecture used for cancer detection consists of five convolutional layers followed by batch normalization, ReLU activation, and max-pooling layers. The final layers include fully connected layers for classification.
 
 ## How to Use
+
+🚀🎯🛠️
 
 1. **Dataset Preparation**:
    - Download the dataset from the provided link.
@@ -33,6 +41,8 @@ The CNN model architecture used for cancer detection consists of five convolutio
 
 ## Requirements
 
+🔧📋🛠️
+
 - Python 3.x
 - PyTorch
 - torchvision
@@ -43,9 +53,13 @@ The CNN model architecture used for cancer detection consists of five convolutio
 
 ## Contribution
 
+🤝👥🛠️
+
 Contributions to improving the model architecture, dataset processing, or any other aspect of the project are welcome. If you find any issues or have suggestions for enhancements, please feel free to open an issue or submit a pull request.
 
 ## References
+
+📚🔖📖🔍
 
 - Dataset: [Histopathologic Cancer Detection Competition](https://www.kaggle.com/competitions/histopathologic-cancer-detection)
 - PyTorch Documentation: [https://pytorch.org/docs/stable/index.html](https://pytorch.org/docs/stable/index.html)
