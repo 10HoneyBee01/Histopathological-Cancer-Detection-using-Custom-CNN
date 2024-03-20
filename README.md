@@ -4,7 +4,7 @@ This repository contains a deep learning model for histopathological cancer dete
 # Histopathological Cancer Detection using 5-Layer CNN Model
 
 ![Histopathological Cancer]([design.png](https://github.com/10HoneyBee01/Histopathological-Cancer-Detection-using-Custom-CNN/blob/main/design.PNG))
-
+![Histopathological Cancer]((https://github.com/10HoneyBee01/Histopathological-Cancer-Detection-using-Custom-CNN/blob/main/design.PNG)
 This repository contains a deep learning model for histopathological cancer detection using a 5-layer Convolutional Neural Network (CNN). The model is trained on the histopathological images dataset available on Kaggle: [Histopathologic Cancer Detection Competition](https://www.kaggle.com/competitions/histopathologic-cancer-detection).
 
 ...
